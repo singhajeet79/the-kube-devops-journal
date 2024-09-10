@@ -1,2 +1,10 @@
-# the-kube-devops-journal
-My Kube DevOps Journal
+## My Kube DevOps Journal
+
+### AWS
+### Kubernetes
+### Terraform
+### Other DevOps Tools
+- #### Jenkins
+- #### Bitbucket
+- #### Artifactory
+- #### Splunk
